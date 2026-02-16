@@ -1,6 +1,6 @@
 # 🚀 Chabu Chabu
 
-## Aspiring Solutions Engineer | SaaS Integrations | API Debugging | Data Investigation
+## Solutions Engineer | SaaS Integrations | API Debugging | Data Investigation
 
 I’m a technical professional transitioning toward **Solutions Engineering** and **SaaS Integration / Solution Architecture**.
 
@@ -88,21 +88,8 @@ My goal is to design and deliver integration architectures that are **secure, re
 
 I’m documenting my learning journey and building integration-focused projects to develop stronger architectural and delivery capabilities.
 
+
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chabu%20Chabu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chabu-chabu-7bb7a453/)
 
-<!--
-**ChabuChabu/ChabuChabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

@@ -88,6 +88,9 @@ My goal is to design and deliver integration architectures that are **secure, re
 
 I’m documenting my learning journey and building integration-focused projects to develop stronger architectural and delivery capabilities.
 
+## 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chabu%20Chabu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chabu-chabu-7bb7a453/)
 
 <!--
 **ChabuChabu/ChabuChabu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
